@@ -15,7 +15,8 @@ Out comes by launch date
 The mean and median for both successful and failed categories 
 
 
-
+Outcomes based on launch date
+The months of march to may were extremely successful while the fail rate was pretty consistent throught the year and canceled sprung up in July but was pretty moderate throughout the entire year. 
 
 ![Outcomes_Based_ on_Launch Date](https://user-images.githubusercontent.com/99921692/155864287-af71c0dc-ef82-405d-8548-4cf47cab7302.png)
 
@@ -27,6 +28,9 @@ The mean and median for both successful and failed categories
 ![Parent_Category_Outcomes](https://user-images.githubusercontent.com/99921692/155864289-22f330d9-1683-4991-82d4-d64236aaa34d.png)
 
 
+The Theater conclusions regarding the launch date is that people didn’t want to go to the theater  after June, while march, April and May were beyond successful during those months. 
+Maybe the Theater was done outside, so therefore in the colder months people didn’t want to go. 
+Maybe people saw their account during tax time in April and their CPA told them to spend more more on charities, so they enjoy themselves and get a better right off?
 
 
 
