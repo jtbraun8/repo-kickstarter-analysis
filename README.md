@@ -34,7 +34,7 @@ Maybe people saw their account during tax time in April and their CPA told them 
 
 
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99921692/155864291-fcb64cd1-ab6c-46ed-9a56-a2e7cf76d453.png)
+![Theater_Outcomes_vs_Launch2](https://user-images.githubusercontent.com/99921692/155864533-30679d42-e54a-4306-9271-1dbd4e44c6c8.png)
 
 Difficulities was to make sure spaces and colons were in the correct spot
 How to write the formulas
